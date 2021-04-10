@@ -23,7 +23,6 @@ https://nodejs.org/en/
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
-## Fonts
 - Google font - Roboto
 - Framework
 - JavaScript libraries - React
