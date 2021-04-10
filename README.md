@@ -1,34 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# [aplication](http://localhost:3000)
 
-## Getting Started
+## Participants
 
-First, run the development server:
+[<img src="https://avatars0.githubusercontent.com/u/15957216?s=460&v=4" width="75px;"/>](https://github.com/DevKleber) <br />
+[Kleber S.](https://github.com/DevKleber)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Dependencies
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+https://nodejs.org/en/
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Demonstration
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+##Home
+![Demo](https://i.imgur.com/MIVZgZh.png)
+##Posts
+![Demo](https://i.imgur.com/AIBI4qH.png)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Tecnologias, Hooks e Bibliotecas
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
-## Deploy on Vercel
+## Fonts
+- Google font - Roboto
+- Framework
+- JavaScript libraries - React
+- Webpack
+- TypeScript
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💻 Projeto
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+O Ig.News é uma aplicação de controle financeiro com a mesma ideia que o [dev.finances](https://github.com/FelipeBrenner/maratona-discover-01-devfinances), porém com tecnologias e recursos estudados e utilizados mais avançados, bibliotecas open source desenvolvidas pela comunidade. Foi desenvolvida durante as aulas do Chapter II da trilha de ReactJS do Bootcamp Ignite da Rocketseat, e nela é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
