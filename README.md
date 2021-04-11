@@ -28,4 +28,5 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 - JavaScript libraries - React
 - Webpack
 - TypeScript
+- Stripe (Payment)
 
